@@ -4,6 +4,8 @@
 
 ## Dataset
 The ProsperLoanData contains information about loans, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
+The dataset can be found here: https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1581581520570000
+
 The data wrangling steps taken are:
 - Used .head(), .shape and .info() to understand the structure of the data
 - Renamed the columns of some variables using .rename()
